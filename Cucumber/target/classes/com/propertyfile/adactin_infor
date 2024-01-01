@@ -1,0 +1,75 @@
+url =     https://adactinhotelapp.com/
+
+username =  NandhiniManikandan
+
+password=   Nandhini@27
+
+login = button
+
+location=  3
+
+hotels =  2
+
+roomtype =  2
+
+room=   1
+
+check=  22/10/2023
+
+checkout=   23/10/2023
+
+adult=  2
+
+children= 2
+
+search=click
+
+radiobutton =click
+
+continuebutton=click
+
+firstname=   Nandhini
+  
+lastname=    Manikandan
+
+address=   Porur
+
+creditcardno= 1234567891234567
+
+creditcardtype= 2
+
+month= 2
+
+year= 17
+
+cvv= 234
+
+booknow= click
+
+Itinerary=click
+
+checkbox=click
+
+cancel=click
+
+okbutton=click
+
+logout=click
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
